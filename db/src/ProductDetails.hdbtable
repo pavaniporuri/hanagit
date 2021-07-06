@@ -1,0 +1,6 @@
+column table "Z_HANA_XS_ODATA.db::ProductDetails"
+(
+	poductid integer primary key,
+	productname varchar(50),
+	productsales decimal(15,2)
+)

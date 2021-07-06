@@ -1,0 +1,4 @@
+service
+{   
+"Z_HANA_XS_ODATA.db::ProductDetails" as "proddata";
+}

@@ -1,0 +1,6 @@
+column table "Z_HANA_XS_ODATA.db::EmployeeDetails"
+(
+	EMPID integer,
+	EMPNAME VARCHAR(50),
+	EMPSKILL VARCHAR(20)
+)

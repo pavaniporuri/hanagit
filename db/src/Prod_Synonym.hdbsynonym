@@ -1,0 +1,7 @@
+{
+  "Z_HANA_XS_ODATA.db::Prod_Synonym": {
+    "target": {
+      "object": "Z_HANA_XS_ODATA.db::ProductDetails"
+    }
+  }
+}
